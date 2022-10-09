@@ -25,7 +25,7 @@ Interested in:
 - smart contract 
 - Node -trhee.js web3 
 - open source
-- 
+ 
 
 ## Projects
 
