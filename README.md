@@ -37,8 +37,10 @@ I've contributed to many different private projects
 - Ipfs: [Ipfs](https://ipfs.fleek.co/ipfs/QmciAUWAQZu71rMeAsMJw7jq1p4hork4fmL5j8Qn7ovP5c/)
 - Blog: [old blog](https://fernandososa.blogspot.com/) 
 - Blog: [new blog](https://blog.sosafernando.com)
+- Linkedin: [linkedin](https://www.linkedin.com/in/fernando-gabriel-sosa-439520a/)
 - Twitter: [@neoxolotl](https://twitter.com/neoxolotl)
 - Email: sosafernandog@gmail.com
+
 
 ## Coins deployed 
 - Solana: [fsosa] (https://explorer.solana.com/address/HPs8A1WiRypdPwFBG32KaA9qHLt4VDKJ7sWUF5HKoicP)
