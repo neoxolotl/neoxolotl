@@ -36,7 +36,6 @@ I've contributed to many different private projects
 - Web: [Web](https://sosafernando.on.fleek.co/)
 - Ipfs: [Ipfs](https://ipfs.fleek.co/ipfs/QmciAUWAQZu71rMeAsMJw7jq1p4hork4fmL5j8Qn7ovP5c/)
 - Blog: [old blog](https://fernandososa.blogspot.com/) 
-- Blog: [new blog](https://blog.sosafernando.com)
 - Linkedin: [linkedin](https://www.linkedin.com/in/fernando-gabriel-sosa-439520a/)
 - Twitter: [@neoxolotl](https://twitter.com/neoxolotl)
 - Email: sosafernandog@gmail.com
