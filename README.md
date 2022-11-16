@@ -23,7 +23,7 @@ Interested in:
 - rust
 - python
 - smart contract 
-- Node -trhee.js web3 
+- Node - web3 
 - open source
  
 
