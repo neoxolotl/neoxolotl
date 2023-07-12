@@ -34,7 +34,7 @@ I've contributed to many different private projects
 ## Connect
 
 - Web: [Web](https://sosafernando.on.fleek.co/)
-- Ipfs: [Ipfs](https://ipfs.fleek.co/ipfs/QmciAUWAQZu71rMeAsMJw7jq1p4hork4fmL5j8Qn7ovP5c/)
+- Ipfs: [Ipfs](https://fleek.ipfs.io/ipfs/QmWEsdMauXcYougUpk33hCkHpqtP3JqHX8zKSgnP6pKqJg/)
 - Blog: [old blog](https://fernandososa.blogspot.com/) 
 <!-- 
 - Linkedin: [linkedin](https://www.linkedin.com/in/fernando-gabriel-sosa-439520a/)
